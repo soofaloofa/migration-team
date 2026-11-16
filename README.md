@@ -9,7 +9,7 @@ for hours or days, from Claude Code on your machine. The design follows
 ```bash
 cp agents/*.md ~/.claude/agents/
 
-npx skills add -g https://github.com/Workiva/migration-team
+npx skills add -g https://github.com/soofaloofa/migration-team
 ```
 
 Requires `git`, `bash`, and the `claude` CLI on your PATH.
