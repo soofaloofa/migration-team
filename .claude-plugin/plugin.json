@@ -1,6 +1,6 @@
 {
-  "name": "dev-team",
-  "version": "0.1.0",
-  "description": "A tiny dev team (architect, implementor, reviewer) that coordinates through messages and a shared design document.",
-  "skills": ["./skills/dev-team", "./skills/pdd"]
+  "name": "migration-team",
+  "version": "0.2.0",
+  "description": "An autonomous migration team: an architect plans, then test writers, issue finders, and fixers run for days behind a merge gate until the migration is complete.",
+  "skills": ["./skills/migration-team", "./skills/pdd"]
 }
